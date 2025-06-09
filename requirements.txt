@@ -1,3 +1,13 @@
-What are the common symptoms of a brain tumor? 
-What imaging techniques are used to diagnose brain tumors? 
-How are brain tumors classified? 
+streamlit
+numpy
+opencv-python-headless==4.5.5.64
+Pillow
+ultralytics
+python-dotenv
+matplotlib
+pandas
+fpdf2
+requests
+feedparser
+beautifulsoup4
+streamlit-lottie
